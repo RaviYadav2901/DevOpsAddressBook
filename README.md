@@ -70,3 +70,4 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 *** End of documentation
 hello this for github commit changes
 hello new  commit for new changes
+new commit for auto build triggers
